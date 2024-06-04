@@ -1,0 +1,47 @@
+D:\ZTU\OOP PROJECT\dungeon-dev\Dungeon\bin\Debug\Dungeon.exe.config
+D:\ZTU\OOP PROJECT\dungeon-dev\Dungeon\bin\Debug\Dungeon.exe
+D:\ZTU\OOP PROJECT\dungeon-dev\Dungeon\bin\Debug\Dungeon.pdb
+D:\ZTU\OOP PROJECT\dungeon-dev\Dungeon\obj\Debug\Dungeon.csproj.AssemblyReference.cache
+D:\ZTU\OOP PROJECT\dungeon-dev\Dungeon\obj\Debug\Dungeon.csproj.SuggestedBindingRedirects.cache
+D:\ZTU\OOP PROJECT\dungeon-dev\Dungeon\obj\Debug\Dungeon.csproj.ResolveComReference.cache
+D:\ZTU\OOP PROJECT\dungeon-dev\Dungeon\obj\Debug\Dungeon.LauncherForm.resources
+D:\ZTU\OOP PROJECT\dungeon-dev\Dungeon\obj\Debug\Dungeon.LoadForm.resources
+D:\ZTU\OOP PROJECT\dungeon-dev\Dungeon\obj\Debug\Dungeon.MainForm.resources
+D:\ZTU\OOP PROJECT\dungeon-dev\Dungeon\obj\Debug\Dungeon.Properties.Resources.resources
+D:\ZTU\OOP PROJECT\dungeon-dev\Dungeon\obj\Debug\Dungeon.RecordsForm.resources
+D:\ZTU\OOP PROJECT\dungeon-dev\Dungeon\obj\Debug\Dungeon.SaveForm.resources
+D:\ZTU\OOP PROJECT\dungeon-dev\Dungeon\obj\Debug\Dungeon.csproj.GenerateResource.cache
+D:\ZTU\OOP PROJECT\dungeon-dev\Dungeon\obj\Debug\Dungeon.csproj.CoreCompileInputs.cache
+D:\ZTU\OOP PROJECT\dungeon-dev\Dungeon\obj\Debug\Dungeon.exe
+D:\ZTU\OOP PROJECT\dungeon-dev\Dungeon\obj\Debug\Dungeon.pdb
+D:\ZTU\OOP PROJECT\CourseWorkDungeon\Dungeon\bin\Debug\Dungeon.exe.config
+D:\ZTU\OOP PROJECT\CourseWorkDungeon\Dungeon\bin\Debug\Dungeon.exe
+D:\ZTU\OOP PROJECT\CourseWorkDungeon\Dungeon\bin\Debug\Dungeon.pdb
+D:\ZTU\OOP PROJECT\CourseWorkDungeon\Dungeon\obj\Debug\Dungeon.csproj.AssemblyReference.cache
+D:\ZTU\OOP PROJECT\CourseWorkDungeon\Dungeon\obj\Debug\Dungeon.csproj.SuggestedBindingRedirects.cache
+D:\ZTU\OOP PROJECT\CourseWorkDungeon\Dungeon\obj\Debug\Dungeon.csproj.ResolveComReference.cache
+D:\ZTU\OOP PROJECT\CourseWorkDungeon\Dungeon\obj\Debug\Dungeon.LauncherForm.resources
+D:\ZTU\OOP PROJECT\CourseWorkDungeon\Dungeon\obj\Debug\Dungeon.LoadForm.resources
+D:\ZTU\OOP PROJECT\CourseWorkDungeon\Dungeon\obj\Debug\Dungeon.MainForm.resources
+D:\ZTU\OOP PROJECT\CourseWorkDungeon\Dungeon\obj\Debug\Dungeon.Properties.Resources.resources
+D:\ZTU\OOP PROJECT\CourseWorkDungeon\Dungeon\obj\Debug\Dungeon.RecordsForm.resources
+D:\ZTU\OOP PROJECT\CourseWorkDungeon\Dungeon\obj\Debug\Dungeon.SaveForm.resources
+D:\ZTU\OOP PROJECT\CourseWorkDungeon\Dungeon\obj\Debug\Dungeon.csproj.GenerateResource.cache
+D:\ZTU\OOP PROJECT\CourseWorkDungeon\Dungeon\obj\Debug\Dungeon.csproj.CoreCompileInputs.cache
+D:\ZTU\OOP PROJECT\CourseWorkDungeon\Dungeon\obj\Debug\Dungeon.exe
+D:\ZTU\OOP PROJECT\CourseWorkDungeon\Dungeon\obj\Debug\Dungeon.pdb
+F:\ZTU\1 курс\OOP PROJECT\CourseWorkDungeon\Dungeon\bin\Debug\Dungeon.exe.config
+F:\ZTU\1 курс\OOP PROJECT\CourseWorkDungeon\Dungeon\bin\Debug\Dungeon.exe
+F:\ZTU\1 курс\OOP PROJECT\CourseWorkDungeon\Dungeon\bin\Debug\Dungeon.pdb
+F:\ZTU\1 курс\OOP PROJECT\CourseWorkDungeon\Dungeon\obj\Debug\Dungeon.csproj.AssemblyReference.cache
+F:\ZTU\1 курс\OOP PROJECT\CourseWorkDungeon\Dungeon\obj\Debug\Dungeon.csproj.ResolveComReference.cache
+F:\ZTU\1 курс\OOP PROJECT\CourseWorkDungeon\Dungeon\obj\Debug\Dungeon.LauncherForm.resources
+F:\ZTU\1 курс\OOP PROJECT\CourseWorkDungeon\Dungeon\obj\Debug\Dungeon.LoadForm.resources
+F:\ZTU\1 курс\OOP PROJECT\CourseWorkDungeon\Dungeon\obj\Debug\Dungeon.MainForm.resources
+F:\ZTU\1 курс\OOP PROJECT\CourseWorkDungeon\Dungeon\obj\Debug\Dungeon.Properties.Resources.resources
+F:\ZTU\1 курс\OOP PROJECT\CourseWorkDungeon\Dungeon\obj\Debug\Dungeon.RecordsForm.resources
+F:\ZTU\1 курс\OOP PROJECT\CourseWorkDungeon\Dungeon\obj\Debug\Dungeon.SaveForm.resources
+F:\ZTU\1 курс\OOP PROJECT\CourseWorkDungeon\Dungeon\obj\Debug\Dungeon.csproj.GenerateResource.cache
+F:\ZTU\1 курс\OOP PROJECT\CourseWorkDungeon\Dungeon\obj\Debug\Dungeon.csproj.CoreCompileInputs.cache
+F:\ZTU\1 курс\OOP PROJECT\CourseWorkDungeon\Dungeon\obj\Debug\Dungeon.exe
+F:\ZTU\1 курс\OOP PROJECT\CourseWorkDungeon\Dungeon\obj\Debug\Dungeon.pdb
