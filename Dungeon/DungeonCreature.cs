@@ -1371,7 +1371,6 @@ namespace Dungeon
                 DungeonLevel.Form.LooseGame();
             }
         }
-
        
         public void ResetMoveDirection()
         {

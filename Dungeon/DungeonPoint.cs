@@ -31,8 +31,7 @@ namespace Dungeon
             Y = _Y;
         }
 
-          
-          
+                 
           
         public double GetLengthTo(DungeonPoint point)
         {

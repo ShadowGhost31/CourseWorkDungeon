@@ -19,7 +19,6 @@ namespace Dungeon
         }
 
 
- 
 
         private void SetImagesFromTexture(int quality_id = 0, int style_id = 0)
         {

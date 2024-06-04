@@ -2051,8 +2051,7 @@ namespace Dungeon
               
             CreateDoor(GetConnectionPointsConnectedToConnectionPoint(m_room_bonus_location.X, m_room_bonus_location.Y)[0], m_room_bonus_location, true);
         }
-
-          
+         
         private void CreateObjectsFromCells()
         {
             List<DungeonChest> m_chests_bonus = new List<DungeonChest>();

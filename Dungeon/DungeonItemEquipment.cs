@@ -222,7 +222,6 @@ namespace Dungeon
         }
 
 
-  
         public void Equip(DungeonCreature creature)
         {
             if (!(this is DungeonItemPotion)) StartEffects(creature);

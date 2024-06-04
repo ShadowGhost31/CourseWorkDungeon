@@ -14,8 +14,7 @@ namespace Dungeon
         public int TotalFrame;
 
           
-          
-          
+                
           
         public DungeonItemSword(int quality_id = 0, string name = "Меч", string description = "Холодна зброя. Зустрічається дуже часто. Збільшує силу, може зменшує спритність.")
              : base(Properties.Resources.error, false, true, true, name, description)
@@ -30,8 +29,7 @@ namespace Dungeon
             TotalFrame = 0;
         }
 
-          
-          
+                 
           
         public Bitmap GetImageOnDirection(DungeonCreatureMoveDirection direction)
         {

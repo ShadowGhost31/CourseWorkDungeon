@@ -22,7 +22,6 @@ namespace Dungeon
             }
         }
 
-
         public DungeonChest()
             : base(Properties.Resources.error, DungeonObjectCollision.StaticCollision)
         {

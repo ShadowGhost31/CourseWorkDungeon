@@ -5,9 +5,7 @@ namespace Dungeon
       
     public abstract class DungeonStatsInfo
     {
-          
-          
-          
+                
         public static string Name(DungeonStats stat)
         {
             if (stat == DungeonStats.MaxHealth) return "Макс. здоров'я";
@@ -21,10 +19,7 @@ namespace Dungeon
             else if (stat == DungeonStats.Luck) return "Удача";
             return "error";
         }
-
-          
-          
-          
+   
         public static double Max(DungeonStats stat)
         {
             if (stat == DungeonStats.MaxHealth) return 250;
@@ -38,9 +33,7 @@ namespace Dungeon
             else if (stat == DungeonStats.Luck) return 50;
             return -1;
         }
-
-          
-          
+     
           
         public static double Plus(DungeonStats stat)
         {
@@ -56,9 +49,6 @@ namespace Dungeon
             return -1;
         }
 
-          
-          
-          
         public static Color GetColor(DungeonStats stat)
         {
             if (stat == DungeonStats.MaxHealth) return Color.FromArgb(255, 0, 0);   

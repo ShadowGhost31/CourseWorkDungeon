@@ -16,7 +16,6 @@ namespace Dungeon
     
    
     
-    
        
         public DungeonItemArmour(int quality_id = 0, int style_id = 0, string name = "Броня", string description = "Елемент захисту. Зустрічається часто. Збільшує максимальне здоров'я, знижує швидкість пересування, може збільшувати або зменшувати регенерацію здоров'я.")
               : base(Properties.Resources.error, false, true, true, name, description)

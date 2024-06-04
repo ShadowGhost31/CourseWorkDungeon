@@ -307,8 +307,7 @@ namespace Dungeon
         }
 
           
-          
-          
+                   
           
         public bool IsInPlayerView(DungeonHero hero, Size showing_size)
         {

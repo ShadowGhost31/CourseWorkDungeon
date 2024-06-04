@@ -345,19 +345,14 @@
     {
           
         NotSet,
-
-          
+        
         CanSet,
-
-          
+         
         CanSetPlus,
-
-          
+        
         MustSetPlus,
-
           
         CanSetMinus,
-
           
         MustSetMinus,
     }
@@ -367,11 +362,9 @@
     {
           
         Usual,
-
           
         Exit,
-
-          
+   
         Bonus,
     }
 
@@ -380,13 +373,10 @@
     {
           
         AFK,
-
           
         Thinking,
-
           
         MovingToCell,
-
           
         Fighting,
     }

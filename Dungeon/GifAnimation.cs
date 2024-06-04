@@ -14,8 +14,7 @@ namespace Dungeon
         {
             m_images = new List<Bitmap>();
         }
-
-          
+         
           
         public void AddFrame(Bitmap image)
         {
@@ -23,8 +22,7 @@ namespace Dungeon
         }
 
           
-          
-          
+              
         public Bitmap GetFrame(int frame_id)
         {
             if (frame_id < 0 || frame_id >= m_images.Count)

@@ -66,8 +66,7 @@ namespace Dungeon
             colors_count = -1;
         }
 
-   
-      
+        
 
         public static Color GetNextColor(ref Random world_key)
         {

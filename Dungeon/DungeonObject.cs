@@ -169,8 +169,7 @@ namespace Dungeon
         }
 
           
-          
-          
+                 
           
           
         protected bool IsInView(Point screen_location, Point center_screen, Size showing_size)

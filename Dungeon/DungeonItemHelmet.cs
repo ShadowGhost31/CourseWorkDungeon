@@ -35,7 +35,6 @@ namespace Dungeon
 
 
 
-
         public Bitmap GetImageOnDirection(DungeonCreatureMoveDirection direction)
         {
             return MainForm.ImagesHelmets[m_quality_id, m_style_id, (int)direction];

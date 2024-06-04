@@ -18,10 +18,8 @@ namespace Dungeon
                 return m_can_use;
             }
         }
-
       
         private bool m_can_drop;
-
        
         public bool CanDrop
         {
@@ -30,11 +28,9 @@ namespace Dungeon
                 return m_can_drop;
             }
         }
-
      
         protected bool m_can_destroy;
-
-   
+ 
         public bool CanDestroy
         {
             get
@@ -43,7 +39,6 @@ namespace Dungeon
             }
         }
 
-   
         private string m_name;
 
      
@@ -54,7 +49,6 @@ namespace Dungeon
                 return m_name;
             }
         }
-
 
         protected string m_description;
 
@@ -72,13 +66,6 @@ namespace Dungeon
 
      
         public DungeonContainer Container;
-
-     
-  
-      
-   
- 
-
 
         protected DungeonItem(Bitmap image, bool can_use, bool can_drop, bool can_destroy, string name, string description)
             : base(image, DungeonObjectCollision.NoCollision)

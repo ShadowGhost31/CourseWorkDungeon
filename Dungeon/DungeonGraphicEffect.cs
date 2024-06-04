@@ -64,7 +64,6 @@ namespace Dungeon
             Destroy();
         }
 
-
         private void timer_play_Tick(object sender, EventArgs e)
         {
             if (m_gif_image.CurrentFrame + 1 >= m_gif_image.FramesCount) 

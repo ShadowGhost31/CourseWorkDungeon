@@ -122,7 +122,6 @@ namespace Dungeon
             m_media_player.Volume = (double)volume / 100;
         }
 
-
         public void Play()
         {
             m_is_paused = false;

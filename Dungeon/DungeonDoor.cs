@@ -139,7 +139,6 @@ namespace Dungeon
             }
             m_image_opened = image_opened;
         }
-
     
         public void Open()
         {

@@ -151,7 +151,6 @@ namespace Dungeon
             }
         }
 
-
         private void timer_usage_Tick(object sender, EventArgs e)
         {
             if (m_creature != null && m_creature.DungeonLevel != null)

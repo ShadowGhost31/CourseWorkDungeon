@@ -27,7 +27,6 @@ namespace Dungeon
         {
             m_full_description = m_description + m_text;
         }
-
       
     
      
