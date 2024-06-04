@@ -24,8 +24,8 @@ Dungeon Hero пропонує наступні можливості:
 
 ### Клонувати репозиторій
 ```sh
-git clone https://github.com/your-repo/dungeon-hero.git
-cd dungeon-hero
+git clone https://github.com/ShadowGhost31/CourseWorkDungeon.git
+cd CourseWorkDungeon
 ```
 ## Зібрати проект
 Переконайтеся, що у вас встановлений .NET SDK. Потім виконайте наступну команду:
